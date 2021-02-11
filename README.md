@@ -80,6 +80,7 @@ extra:
 
 theme:
   name: material
+  language: en
   features:
     - navigation.tabs
     - navigation.sections
